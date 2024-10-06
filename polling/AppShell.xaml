@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="polling.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:polling"
+    Shell.FlyoutBehavior="Disabled"
+    Title="polling">
+    
+    <Shell.Resources>
+        <ResourceDictionary>
+            <Style x:Key="Headline" TargetType="Label">
+                <Setter Property="FontSize" Value="36" />
+                <Setter Property="FontAttributes" Value="Bold" />
+                <Setter Property="TextColor" Value="Black" />
+                </Style>
+        </ResourceDictionary>
+    </Shell.Resources>
+    
+    
+    <ShellItem Route="WelcomePage">
+        <ShellSection Route="WelcomePage">
+            <ShellContent
+                ContentTemplate="{DataTemplate local:WelcomePage}"
+                Route="MainPage" />
+        </ShellSection>
+    </ShellItem>
+
+    <ShellContent
+        Title="Home"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" />
+
+</Shell>

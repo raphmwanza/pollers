@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="polling.WelcomePage"
+             BackgroundColor="White">
+    <ContentPage.Content>
+        <Grid
+            Padding="60,0">
+            
+            
+            <Image
+                Source="five_star_rating.png"
+                HeightRequest="450"
+                WidthRequest="450"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                Aspect="AspectFit"
+            />
+            
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,1 @@
+C:\Users\raphm\OneDrive\Documents\GitHub\pollers\polling\polling.csproj;x64
