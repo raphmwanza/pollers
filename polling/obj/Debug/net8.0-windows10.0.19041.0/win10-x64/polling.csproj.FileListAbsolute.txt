@@ -174,3 +174,4 @@ C:\Users\raphm\OneDrive\Documents\GitHub\pollers\polling\obj\Debug\net8.0-window
 C:\Users\raphm\OneDrive\Documents\GitHub\pollers\polling\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
 C:\Users\raphm\OneDrive\Documents\GitHub\pollers\polling\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\purple_stars.scale-100.png
 C:\Users\raphm\OneDrive\Documents\GitHub\pollers\polling\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\five_star_rating.scale-100.png
+C:\Users\raphm\OneDrive\Documents\GitHub\pollers\polling\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\polling.sourcelink.json

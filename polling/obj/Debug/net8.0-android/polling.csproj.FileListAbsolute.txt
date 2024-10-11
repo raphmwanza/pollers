@@ -1043,3 +1043,4 @@ C:\Users\raphm\OneDrive\Documents\GitHub\pollers\polling\obj\Debug\net8.0-androi
 C:\Users\raphm\OneDrive\Documents\GitHub\pollers\polling\obj\Debug\net8.0-android\android\assets\System.Private.CoreLib.dll
 C:\Users\raphm\OneDrive\Documents\GitHub\pollers\polling\obj\Debug\net8.0-android\resizetizer\r\drawable\purple_stars.png
 C:\Users\raphm\OneDrive\Documents\GitHub\pollers\polling\obj\Debug\net8.0-android\resizetizer\r\drawable\five_star_rating.png
+C:\Users\raphm\OneDrive\Documents\GitHub\pollers\polling\obj\Debug\net8.0-android\polling.sourcelink.json

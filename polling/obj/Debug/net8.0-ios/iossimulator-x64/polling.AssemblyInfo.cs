@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("polling")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+895896e74f4791665c8bf24b75d5f41e571931da")]
 [assembly: System.Reflection.AssemblyProductAttribute("polling")]
 [assembly: System.Reflection.AssemblyTitleAttribute("polling")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

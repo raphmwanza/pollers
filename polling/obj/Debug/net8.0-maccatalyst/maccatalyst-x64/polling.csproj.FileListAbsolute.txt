@@ -298,3 +298,4 @@ C:\Users\raphm\OneDrive\Documents\GitHub\pollers\polling\obj\Debug\net8.0-maccat
 C:\Users\raphm\OneDrive\Documents\GitHub\pollers\polling\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ref\polling.dll
 C:\Users\raphm\OneDrive\Documents\GitHub\pollers\polling\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\purple_stars.png
 C:\Users\raphm\OneDrive\Documents\GitHub\pollers\polling\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\five_star_rating.png
+C:\Users\raphm\OneDrive\Documents\GitHub\pollers\polling\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\polling.sourcelink.json
